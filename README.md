@@ -1,2 +1,2 @@
 # Dijkstra
-Dijkstra project developed in CS400 Programming III
+Dijkstra shortest path algorithm developed in CS400 Programming III
