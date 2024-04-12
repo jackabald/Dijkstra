@@ -1,2 +1,3 @@
 # Dijkstra
-Dijkstra shortest path algorithm developed in CS400 Programming III
+Dijkstra shortest path algorithm developed in CS400 Programming III  
+This is not the full project. This is the Dijkstra code I developed for our full travel guide. 
